@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PacketSniffer.App/PacketSniffer.App.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PacketSniffer.Tests/PacketSniffer.Tests.csproj" />
+  </Folder>
+</Solution>
