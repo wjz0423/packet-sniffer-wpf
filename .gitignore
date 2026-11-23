@@ -1,0 +1,21 @@
+## .NET build output
+**/bin/
+**/obj/
+**/TestResults/
+.vs/
+
+## Local SDK and tooling
+.dotnet/
+*.user
+*.suo
+
+## Local captures and generated exports
+captures/
+exports/
+*.pcap
+*.pcapng
+artifacts/
+
+## Local scratch files
+tmp/
+*.log
